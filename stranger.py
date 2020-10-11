@@ -62,7 +62,7 @@ cover()
 
 email = str(raw_input(WW+" Introduzca el ID de la victima\033[33;1m: "))
 
-passwordlist = str(raw_input(WW+"Ingrese el archivo de Contraseñas\033[95m[ pass.txt, pass-vacio.txt ]\033[92;1m: "))
+passwordlist = str(raw_input(WW+"Ingrese el archivo de Contraseñas\033[95m[ pass.txt ]\033[92;1m: "))
 
 
 #login = 'https://m.facebook.com/login/?ref=dbl&fl&refid=8'
